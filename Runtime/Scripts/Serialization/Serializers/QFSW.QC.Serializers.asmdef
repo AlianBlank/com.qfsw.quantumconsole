@@ -1,0 +1,14 @@
+{
+    "name": "QFSW.QC.Serializers",
+    "references": [
+        "QuantumConsole.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

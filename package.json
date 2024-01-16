@@ -1,0 +1,13 @@
+{
+  "name": "com.qfsw.quantumconsole",
+  "displayName": "Quantum Console",
+  "version": "2.6.3",
+  "unity": "2019.4",
+  "description": "Quantum Console 是一个拥有许多功能及容易使用的游戏命令控制台。只要在程序里输入[Command],您就可以在命令控制台另加特制的命令及游戏作弊码！",
+  "author": {
+    "name": "QFSW",
+    "url": "https://assetstore.unity.com/packages/tools/utilities/quantum-console-211046"
+  },  
+  "relatedPackages": {},
+  "type": "library"
+}

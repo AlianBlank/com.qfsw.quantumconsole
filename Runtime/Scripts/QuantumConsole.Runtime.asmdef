@@ -1,0 +1,15 @@
+{
+    "name": "QuantumConsole.Runtime",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

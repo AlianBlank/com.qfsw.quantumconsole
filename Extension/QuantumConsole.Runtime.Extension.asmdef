@@ -1,0 +1,8 @@
+{
+    "name": "QuantumConsole.Runtime.Extension",
+    "references": [
+        "QuantumConsole.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
